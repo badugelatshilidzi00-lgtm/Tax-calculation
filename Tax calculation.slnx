@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tax calculation.vcxproj" Id="c0f4ea74-a366-4934-8a09-1a36b966cdff" />
+</Solution>
