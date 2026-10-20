@@ -14,7 +14,7 @@ The project focuses on processing input, performing calculations, and presenting
 - Processes user-provided information.
 - Displays calculation results in the console.
 
-*Revise this list to reflect the exact features implemented in the program.*
+
 
 ## 🛠️ Technologies Used
 
@@ -38,7 +38,7 @@ This project offers practice with:
 - Input and output.
 - Applying programming logic to calculations.
 
-*Keep the learning outcomes that accurately describe your code.*
+
 
 ## 👩‍💻 Author
 
